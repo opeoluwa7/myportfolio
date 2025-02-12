@@ -50,6 +50,7 @@ a{
     gap: 4rem;
     margin-inline: auto;
     width: 100%;
+    padding-bottom: 2rem;
 }
 .hero{
     display: flex;
