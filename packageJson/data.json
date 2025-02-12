@@ -25,32 +25,5 @@
             "mobile": "../images/social-linkwebsite/mobile.png"
         },
          "src": "https://social-links-main-trial.netlify.app"
-    },
-    {
-        "title": "QR Component Website",
-        "images": {
-            "desktop": "../images/qrcomponent-website/desktop.png",
-            "mobile": "../images/qrcomponent-website/mobile.png"
-        },
-        "src": "https://qr-component-website-solution.netlify.app"
-    },
-
-    {
-        "title": "Blog Preview Card",
-        "images": {
-            "desktop": "../images/blogpreviewcard/desktop.png",
-            "mobile": "../images/blogpreviewcard/mobile.png"
-        },
-         "src": "https://blog-preview-card-trial.netlify.app"
-    },
-
-
-    {
-        "title": "Social Links Website",
-        "images": {
-            "desktop": "../images/social-linkwebsite/desktop.png",
-            "mobile": "../images/social-linkwebsite/mobile.png"
-        },
-         "src": "https://social-links-main-trial.netlify.app"
     }
 ]
