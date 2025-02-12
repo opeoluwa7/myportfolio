@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="My portfolio filled with wonderful creations">
-    <link rel="stylesheet" href="./css/home.css">
+    <link rel="stylesheet" href="../css/home.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -18,30 +18,26 @@
     <main class="container">
         <header>
             <nav>
-                    <a href="#" class="link">Logo</a>
-                    <a href="#" class="link">home</a>
-                    <a href="#" class="link">websites</a>
-                    <a href="#" class="link">socials</a>
+                <a href="../pages/index.html" class="link">home</a>
+                <a href="../pages/websites.html" class="link">websites</a>
+                <a href="#" class="link">socials</a>
             </nav>
+        </header>
 
+        <section class="bodyContents">
             <section class="hero">
                 <h1>Hello, my name is Adefolarin</h1>
                 <h2>I am a Front-end developer</h2>
                 <p>"Versatile in multiple languages, I use html, css, javascript to create stunning designs"</p>
             </section>
 
-            <section class="webLinkBtn">
-                <button type="button">My work</button>
-            </section>
-        </header>
-
-        <section class="body-content">
-            <h3>Latest</h3>
-            <div id="grid-container"></div>
+                <button onclick="navToWebsites()" type="button">My work</button>
         </section>
+
+
     </main>
 
-    <script src="./home.js"></script>
+    <script src="../js/home.js"></script>
 </body>
 
 </html>
